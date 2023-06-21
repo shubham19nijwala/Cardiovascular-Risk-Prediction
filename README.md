@@ -22,13 +22,13 @@ In summary, this project showcased the potential of machine learning techniques 
 
 # CONCLUSION:
 
-In conclusion, this project demonstrated the potential of machine learning techniques to accurately predict the 10-year risk of future coronary heart disease (CHD) in patients using data from an ongoing cardiovascular study. Key points from this project include:
+In conclusion, this project effectively utilized machine learning techniques to predict the risk of coronary heart disease (CHD) in patients over a 10-year period. The following key findings emerged:
 
-1. Careful data preprocessing and transformation improved the performance of machine learning models and enabled more accurate predictions. Feature selection was important for identifying the most relevant predictors of CHD risk.
-2. The Neural Network model was chosen as the final prediction model due to its high recall score.
-3. Techniques such as SMOTE combined with Tomek links undersampling and standard scalar scaling were used to handle imbalanced data and improve model performance.
-4. This project provides a valuable example of how machine learning techniques can be applied to real-world problems to achieve positive business impact.
+1. Thorough data preprocessing and transformation greatly enhanced the performance of the machine learning models, resulting in more precise predictions.
+2. The selection of relevant features played a critical role in identifying the most significant factors contributing to CHD risk.
+3. The Neural Network model stood out as the optimal choice for prediction due to its exceptional recall score.
+4. Various techniques, including SMOTE combined with Tomek links undersampling and standard scalar scaling, were employed to handle imbalanced data and improve the models' performance.
+5. This project serves as a compelling example of how machine learning can be effectively applied to real-world scenarios, delivering tangible business benefits.
 
-
-Overall, this project highlights the importance of careful data preparation and analysis in machine learning projects. By taking the time to clean and transform the data, select relevant features, and choose an appropriate model, it is possible to achieve accurate predictions and support decision-making in a wide range of domains.
+Ultimately, this project underscores the importance of meticulous data preparation and analysis in the realm of machine learning. By investing effort into data cleaning, feature selection, and model selection, accurate predictions can be achieved, empowering informed decision-making across diverse domains.
 
